@@ -1,0 +1,23 @@
+{
+  "name": "oliverv8r.github.io",
+  "version": "1.0.0",
+  "description": "website for oliverv8r",
+  "homepage": "https://github.com/OliverV8R/oliverv8r.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/OliverV8R/oliverv8r.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverV8R/oliverv8r.github.io.git"
+  },
+  "license": "ISC",
+  "author": "Oliver VandeWater",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}
